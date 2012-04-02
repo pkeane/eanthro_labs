@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1235/trunk/modules/webspace/templates
+END
+menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/810/trunk/modules/webspace/templates/menu.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1235/trunk/modules/webspace/templates/index.tpl
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/808/trunk/modules/webspace/templates/.htaccess
+END

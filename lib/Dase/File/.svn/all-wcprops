@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1717/trunk/lib/Dase/File
+END
+Pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1113/trunk/lib/Dase/File/Pdf.php
+END
+Audio.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1435/trunk/lib/Dase/File/Audio.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1717/trunk/lib/Dase/File/Image.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1113/trunk/lib/Dase/File/Text.php
+END
+Doc.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1133/trunk/lib/Dase/File/Doc.php
+END
+Video.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1435/trunk/lib/Dase/File/Video.php
+END

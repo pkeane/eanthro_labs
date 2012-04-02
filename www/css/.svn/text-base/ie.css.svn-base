@@ -1,0 +1,22 @@
+ul#menu ul {
+margin-top: -12px;
+}
+
+ul#menu ul#cart {
+margin-top: 0px;
+}
+
+ul#menu ul#cart ul {
+margin-top: 0px;
+}
+
+ul#menu li {
+display: inline;
+}
+div.ieAlert {
+margin: 20px 0 20px 0;
+		font-size: 1.2em;
+color: #b33;
+display: block;
+}
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1711/trunk/modules/local/templates
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1711/trunk/modules/local/templates/index.tpl
+END
+item.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1711/trunk/modules/local/templates/item.tpl
+END

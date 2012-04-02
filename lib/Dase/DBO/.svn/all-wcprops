@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1729/trunk/lib/Dase/DBO
+END
+TagItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1672/trunk/lib/Dase/DBO/TagItem.php
+END
+DefinedValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/268/trunk/lib/Dase/DBO/DefinedValue.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1648/trunk/lib/Dase/DBO/Collection.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1698/trunk/lib/Dase/DBO/Item.php
+END
+ItemType.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1653/trunk/lib/Dase/DBO/ItemType.php
+END
+Comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1124/trunk/lib/Dase/DBO/Comment.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1651/trunk/lib/Dase/DBO/Attribute.php
+END
+TagCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1313/trunk/lib/Dase/DBO/TagCategory.php
+END
+ItemStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1621/trunk/lib/Dase/DBO/ItemStore.php
+END
+RecentView.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1241/trunk/lib/Dase/DBO/RecentView.php
+END
+DaseUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1729/trunk/lib/Dase/DBO/DaseUser.php
+END
+Tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1687/trunk/lib/Dase/DBO/Tag.php
+END
+Value.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1297/trunk/lib/Dase/DBO/Value.php
+END
+ItemAtom.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1621/trunk/lib/Dase/DBO/ItemAtom.php
+END
+MediaFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1647/trunk/lib/Dase/DBO/MediaFile.php
+END
+AttributeItemType.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/268/trunk/lib/Dase/DBO/AttributeItemType.php
+END
+CollectionManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1427/trunk/lib/Dase/DBO/CollectionManager.php
+END
+ItemJson.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1621/trunk/lib/Dase/DBO/ItemJson.php
+END

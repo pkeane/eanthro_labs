@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1673/trunk/templates
+END
+default.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1090/trunk/templates/default.tpl
+END
+help.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1360/trunk/templates/help.tpl
+END
+login_form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1129/trunk/templates/login_form.tpl
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/396/trunk/templates/.htaccess
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1673/trunk/templates/layout.tpl
+END

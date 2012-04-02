@@ -1,0 +1,79 @@
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,textarea,p,blockquote,th,td { margin:0; padding:0; }
+table { border-collapse:collapse; border-spacing:0; }
+img { border:0; }
+ol,ul { list-style:none; }
+h1,h2,h3,h4,h5,h6 { font-size:100%; font-weight:normal; }
+
+body{
+font-family: trebuchet ms,arial,sans-serif;
+}
+
+h1 {
+	font-size: 1.2em;
+}
+
+.hide {
+	display: none;
+}
+
+h3.msg {
+	color: #009;
+	margin-bottom: 10px;
+}
+
+div.container{
+width:900px;
+margin:10px auto;
+border: 1px solid #999;
+background-color: #f3f3f3;
+}
+
+div.branding {
+padding: 6px 15px;
+background-color: #eef;
+font-size: 1.3em;
+color: #ba5d00;
+border-bottom: 1px solid #999;
+}
+
+div.content {
+	padding: 15px;
+}
+
+table#formTable {
+}
+
+table#formTable th {
+	border: 1px solid #ccc;
+	padding: 6px;
+	text-align: right;
+	width: 200px;
+}
+
+table#formTable td {
+	border: 1px solid #ccc;
+	padding: 6px;
+	width: 600px;
+}
+
+form input {
+	margin-bottom: .5em;
+}
+
+label {
+	color: #666;
+	font-size: .8em;
+	font-weight: bold;
+	margin-top: .5em;
+}
+
+.success {
+	color: #0c0;
+}
+.message {
+	color: #00c;
+}
+.error {
+	font-size: .9em;
+	color: #c00;
+}

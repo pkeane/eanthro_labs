@@ -1,0 +1,48 @@
+a.checked {
+	color: #ba5d00;
+}
+
+a.uploaded {
+	color: #338800;
+}
+
+a.pending {
+	color: #aa0;
+}
+
+div.file_list {
+	background-color: #ddd;
+	margin: 10px 0;
+	padding: 15px;
+	width: 70%;
+}
+
+div.directory_list {
+	background-color: #ddd;
+	margin: 10px 0;
+	padding: 15px;
+	width: 70%;
+}
+
+div.invalid_list {
+	background-color: #ddd;
+	margin: 10px 0;
+	padding: 15px;
+	width: 70%;
+}
+
+div.file_list li {
+	line-height: 1.8em;
+}
+
+p#checker {
+	margin-top: 10px;
+}
+
+span.filesize {
+	color: #666;
+}
+
+span.wspace {
+	font-weight: bold;
+}

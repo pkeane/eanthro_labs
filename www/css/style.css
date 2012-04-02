@@ -1,0 +1,263 @@
+body {
+	font-family: "Georgia", serif;
+	background-color: #fff;
+}
+
+p {
+	margin: 10px 0;
+}
+
+#wordmark {
+	background:url("../images/wordMarkBkg.png") repeat-x scroll center bottom #FFFFFF;
+	text-align: center;
+}
+
+#wordmark img {
+	margin-bottom: -3px;
+}
+
+div#container {
+	margin: 0px auto;
+	width: 755px;
+	/*
+	width: 956px; 
+	*/
+
+}
+
+div#header {
+	background-color: #fff;
+	color: #000;
+	margin: 0px;
+	padding: 0px;
+	/*
+	border: 1px solid #666;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	*/
+
+}
+
+h1, h2, h3, h4 {
+	font-family: Georgia, serif;
+}
+
+h3.msg {
+	color: #900;
+	margin: 10px 0 0 0;
+}
+
+div#header h1 {
+	font-size: 60px;
+	font-weight: normal;
+	float: left;
+}
+
+div#header h4 {
+	font-weight: normal;
+	float: right;
+	margin-right: 6px;
+	margin-top: 10px;
+}
+
+a.delete {
+	color:#c00;
+}
+
+div#main {
+	margin 0;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 15px 20px;
+}
+
+#footer {
+	margin: 6px 0;
+} 
+
+#footer div.brand {
+	font-family: Arial, sans-serif;
+	padding: 10px 10px 10px 120px;
+	color: #999;
+	background-color: #ccc;
+	height: 40px;
+	vertical-align: bottom;
+	border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 15px 15px 15px 15px;
+}
+#footer a {
+	color:#666;
+}
+#footer table.logo {
+	float: left;
+	margin: 4px 2px 0 0;
+	border-spacing:1px;
+}
+#footer table.logo td {
+	padding: 0;
+	width: 5px;
+	height: 5px;
+	line-height: 5px;
+	font-size: 5px;
+	background-color: #777;
+}
+
+#footer div.label {
+	letter-spacing: -1px;
+	padding: 0;
+	font-size: 32px;
+	line-height: 40px;
+}
+#footer div.label strong {
+	font-size: 40px;
+}
+
+ul {
+	margin: 10px 0;
+}
+
+li  {
+	margin: 5px 0;
+}
+
+
+input.delete {
+	float: right;
+	margin-right: 0px;
+}
+
+input.delete:hover {
+	background-color: #c00;
+	color: #fff;
+}
+
+div.controls {
+	float: right;
+	margin: 6px 0;
+	font-weight: bold;
+}
+
+div.controls  a {
+	font-weight: normal;
+}
+
+dl {
+	margin: 10px 0;
+}
+dt {
+	background-color: #eee;
+	float: left; 
+	width: 140px; 
+	text-align: right; 
+	font-weight: bold; 
+	padding: 2px 10px;
+	margin-bottom: 2px;
+	color: #666; 
+}
+dd { 
+	margin: 0 0 2px 160px; 
+	padding: 2px 10px; 
+	min-height: 20px;
+}
+
+form input[type="text"] {
+	width: 50%;
+}
+
+form textarea {
+	width: 90%;
+	height: 15em;
+}
+
+label {
+	margin-top: 12px;
+	display: block;
+	color: #666;
+	font-weight: bold;
+}
+
+table.items {
+	margin: 20px 0;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table.items th {
+	background-color: #ddd;
+	font-weight: bold;
+	padding: 5px;
+	border: 1px solid #ccc;
+}
+
+table.items td {
+	text-align: center;
+	padding: 5px;
+	border: 1px solid #ccc;
+}
+
+table.items td img {
+	/*
+	max-width: 50px;
+	max-height: 50px;
+	*/
+}
+
+form[method="delete"] input[type="submit"] {
+	font-weight: bold;
+	color: #c00;
+}
+
+form[method="delete"] input[type="submit"]:hover {
+	background-color: #c00;
+	color: white;
+	font-weight: bold;
+}
+
+ul.admin li h2 {
+	background-color: #ddd;
+	padding: 3px 10px;
+	font-size: 16px;
+}
+
+ul.admin li {
+	margin: 10px;
+}
+
+ul.admin li a {
+	padding: 0px 10px;
+	font-weight: bold;
+	font-family: verdana, sans-serif;
+}
+
+dd.sets ul {
+	margin-top: -4px;
+}
+dd.sets form {
+	margin-top: 12px;
+}
+
+form input[name="filter"] {
+	width: 120px;
+}
+
+div.toggle_check {
+	margin: -8px 0 12px 0;
+}
+
+span.num {
+	font-size: 12px;
+	color: #666;
+}
+
+div#chart {
+	height: 400px;
+	width: 100%;
+}
+

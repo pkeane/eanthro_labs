@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1149/trunk/modules/install/templates
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1143/trunk/modules/install/templates/index.tpl
+END
+local_config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1149/trunk/modules/install/templates/local_config.tpl
+END
+setup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/833/trunk/modules/install/templates/setup.tpl
+END

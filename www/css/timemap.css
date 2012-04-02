@@ -1,0 +1,10 @@
+body {
+	width: 1000px;
+	margin: auto auto;
+	padding-bottom: 50px;
+}
+
+#timemap > div { width: 100%; }
+#timeline, #map { height: 100%; }
+#timelinecontainer{ height: 200px; }
+#mapcontainer { height: 400px; }

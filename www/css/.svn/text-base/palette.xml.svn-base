@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<palette>
+  <hue id="ltblue" section="admin">
+	<hex level="1">6480ae</hex>
+	<hex level="2">6480ae</hex>
+	<hex level="3">9cacc6</hex>
+	<hex level="4">d5deed</hex>
+	<hex level="5">eef1f8</hex>
+	<hex level="5">f1f6fe</hex>
+  </hue>
+  <hue id="ltblue" section="resources">
+	<hex level="1">6480ae</hex>
+	<hex level="2">6480ae</hex>
+	<hex level="3">9cacc6</hex>
+	<hex level="4">d5deed</hex>
+	<hex level="5">eef1f8</hex>
+	<hex level="5">f1f6fe</hex>
+  </hue>
+  <hue id="ltblue" section="manage">
+	<hex level="1">6480ae</hex>
+	<hex level="2">6480ae</hex>
+	<hex level="3">9cacc6</hex>
+	<hex level="4">d5deed</hex>
+	<hex level="5">eef1f8</hex>
+	<hex level="5">f1f6fe</hex>
+  </hue>
+  <hue id="blue" section="slideshow">
+	<hex level="1">263b5e</hex>
+	<hex level="2">6480ae</hex>
+	<hex level="3">9cacc6</hex>
+	<hex level="4">d5deed</hex>
+	<hex level="5">eef1f8</hex>
+	<hex level="6">f1f6fe</hex>
+  </hue>
+  <hue id="green" section="shared">
+	<hex level="1">283b1c</hex>
+	<hex level="2">669966</hex>
+	<hex level="3">9dbda9</hex>
+	<hex level="4">ceead8</hex>
+	<hex level="5">ebf6ef</hex>
+	<hex level="6">f4fff8</hex>
+  </hue>
+  <hue id="blue" section="set">
+	<hex level="1">263b5e</hex>
+	<hex level="2">6480ae</hex>
+	<hex level="3">9cacc6</hex>
+	<hex level="4">d5deed</hex>
+	<hex level="5">eef1f8</hex>
+	<hex level="6">f1f6fe</hex>
+  </hue>
+  <hue id="blue" section="sets">
+	<hex level="1">263b5e</hex>
+	<hex level="2">6480ae</hex>
+	<hex level="3">9cacc6</hex>
+	<hex level="4">d5deed</hex>
+	<hex level="5">eef1f8</hex>
+	<hex level="6">f1f6fe</hex>
+  </hue>
+  <hue id="blue" section="user_collection">
+	<hex level="1">263b5e</hex>
+	<hex level="2">6480ae</hex>
+	<hex level="3">9cacc6</hex>
+	<hex level="4">d5deed</hex>
+	<hex level="5">eef1f8</hex>
+	<hex level="6">f1f6fe</hex>
+  </hue>
+  <hue id="ltred" section="xsearches">
+	<hex level="1">947672</hex>
+	<hex level="2">947672</hex>
+	<hex level="3">ecd7d6</hex>
+	<hex level="4">f7efee</hex>
+	<hex level="5">ffffff</hex>
+  </hue>
+  <hue id="red" section="cart">
+	<hex level="1">700c0c</hex>
+	<hex level="2">947672</hex>
+	<hex level="3">cdb0ae</hex>
+	<hex level="4">ecd7d6</hex>
+	<hex level="5">f7efee</hex>
+	<hex level="6">ffffff</hex>
+  </hue>
+  <hue id="rust" section="home">
+	<hex level="1">a25c25</hex>
+	<hex level="2">ad7e59</hex>
+	<hex level="3">c9a98f</hex>
+	<hex level="4">dfcbbc</hex>
+	<hex level="5">f2eae3</hex>
+  </hue>
+  <hue id="redrust" section="settings">
+	<hex level="1">a8721e</hex>
+	<hex level="2">d9c8ad</hex>
+	<hex level="3">e6d4b8</hex>
+	<hex level="4">f2dfc1</hex>
+	<hex level="5">ffebcc</hex>
+	<hex level="6">fff0d9</hex>
+  </hue>
+  <hue id="redrust" section="browse">
+	<hex level="1">a8721e</hex>
+	<hex level="2">d9c8ad</hex>
+	<hex level="3">e6d4b8</hex>
+	<hex level="4">f2dfc1</hex>
+	<hex level="5">ffebcc</hex>
+	<hex level="6">fff0d9</hex>
+  </hue>
+  <hue id="brown" section="subscription">
+	<hex level="1">5f5121</hex>
+	<hex level="2">998d64</hex>
+	<hex level="3">bbae86</hex>
+	<hex level="4">f4ebd2</hex>
+	<hex level="5">faf7ec</hex>
+  </hue>
+  <hue id="brown" section="edit_collections">
+	<hex level="1">5f5121</hex>
+	<hex level="2">998d64</hex>
+	<hex level="3">bbae86</hex>
+	<hex level="4">f4ebd2</hex>
+	<hex level="5">faf7ec</hex>
+  </hue>
+  <hue id="brown" section="recent">
+	<hex level="1">624d34</hex>
+	<!--
+	<hex level="1">5f5121</hex>
+	-->
+	<hex level="2">998d64</hex>
+	<hex level="3">bbae86</hex>
+	<hex level="4">f4ebd2</hex>
+	<hex level="5">faf7ec</hex>
+  </hue>
+  <hue id="purple" section="searches">
+	<hex level="1">4c2851</hex>
+	<!--
+	<hex level="1">49224f</hex>
+	<hex level="1">693171</hex>
+	-->
+	<hex level="2">9445a0</hex>
+	<hex level="3">c6b6c9</hex>
+	<hex level="4">e4d8e4</hex>
+	<hex level="5">f1e4f1</hex>
+  </hue>
+  <hue id="blue" section="tools">
+	<hex level="1">263b5e</hex>
+	<hex level="2">6480ae</hex>
+	<hex level="3">9cacc6</hex>
+	<hex level="4">d5deed</hex>
+	<hex level="5">eef1f8</hex>
+	<hex level="5">f1f6fe</hex>
+  </hue>
+</palette>
+

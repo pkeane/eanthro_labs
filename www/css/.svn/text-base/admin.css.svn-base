@@ -1,0 +1,168 @@
+div#manageHeader {
+	background-color: #000;
+	color: #fff;
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 0px;
+	padding:6px 0 6px 18px;
+}
+
+div#manage {
+	background-color:#f3f8ff;
+}
+
+
+/* overrrides style.css: */
+div.login {
+	padding-top: 6px;
+	color: #fff;
+}
+
+div.login a {
+	color: #fff;
+	font-weight: bold;
+}
+
+div#sidebar
+{
+	margin: 0px 3px;
+}
+
+ul#menu a {
+	display:block;
+	color: #000;
+	color: #353a41;
+	padding: 6px;
+	margin: 4px 0px;
+}
+ul#menu img {
+	border: 0;
+}
+ul#menu  li  {
+	/* fixes ie problem */
+	background-color: #c2dafb;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+ul#menu li:hover {
+	background-color: #a8bdda;
+}
+
+ul#menuGrayed a {
+	display:block;
+	padding: 6px;
+	margin: 4px 0px;
+	background-color: #ddd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+ul#menuGrayed img {
+	border: 0;
+}
+ul#menuGrayed  li  {
+	background-color: #aaa;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+sup {
+	margin-left: 10px;
+	font-size: 1em;
+}
+
+div#classInfo {
+	margin-top: 1em;
+	width: 70%;
+}
+
+div#classInfo h1 {
+	padding: 10px;
+	background-color: #d4d8de;
+	color: #000;
+}
+
+div#classInfo h2 {
+	padding: 5px 10px;
+	background-color: #eee;
+}
+div#classInfo h3 {
+	margin: 10px;
+}
+
+div#classInfo p {
+	margin: 10px;
+	font-size: 1.1em;
+}
+
+div#classInfo ul {
+	margin: 10px;
+	line-height: 1.3em;
+}
+
+#userCount {
+	margin-top: 12px;
+	color: #666;
+}
+
+ul#userList a {
+ line-height: 1.5em;
+ color: #900; 
+}
+
+#userInfo {
+	margin: 20px;
+}
+
+#userInfo h3 {
+	margin: 10px 0;
+	color: #900;
+}
+
+ul#userList a:hover {
+	text-decoration: underline;
+}
+
+span.mods {
+	color: #669;
+	margin-right: .5em;
+}
+
+span.declaring {
+	color: #666;
+	margin-right: .5em;
+}
+
+span.method {
+	color: #333;
+	font-weight: bold;
+	margin-right: .5em;
+}
+
+.javascript_template {
+	display: none;
+}
+
+form.adminForm {
+	padding: 3px;
+	border: 1px solid #999;
+	width: 450px;
+	margin-bottom: 2em;
+}
+form.adminForm p {
+	margin: 5px;
+}
+form.adminForm input {
+	margin: 5px;
+	margin-top: 0;
+}
+form.adminForm input[type=text] {
+	width: 400px;
+}
+form.adminForm label {
+	display:block;
+	margin: 5px;
+	margin-bottom: 0;
+	font-weight: bold;
+	color: #666;
+}
+

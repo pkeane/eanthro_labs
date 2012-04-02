@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1740/trunk/lib/Dase/Http
+END
+Cookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1280/trunk/lib/Dase/Http/Cookie.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1113/trunk/lib/Dase/Http/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1684/trunk/lib/Dase/Http/Response.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1740/trunk/lib/Dase/Http/Request.php
+END

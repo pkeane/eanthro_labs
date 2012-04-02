@@ -1,0 +1,299 @@
+div#adminHeader {
+	background-color: #000;
+	color: #fff;
+	font-weight: bold;
+	margin-top: 0px;
+	font-size: .9em;
+	padding:4px;
+	padding-left: 18px;
+}
+
+div#adminHeader p {
+	color: white;
+	margin:0;
+	font-size: 14px;
+	padding:6px 0 0 0;
+}
+
+div#adminHeader p a {
+	color: #ccc;
+}
+
+div#admin {
+	background-color:#eef1f8;
+}
+
+
+/* overrrides style.css: */
+div.login {
+	padding-top: 6px;
+	color: #fff;
+}
+
+div.login a {
+	color: #fff;
+	font-weight: bold;
+}
+
+div#catColumn {
+	background-color: #d5deed;
+	width: 27%;
+}
+
+div#catColumn a.spill {
+	background-color: #f7f9ff;
+	background-color: #fff;
+}
+
+div#attColumn {
+	width: 50%;
+	padding: 10px 20px;
+	background-color: #f4f6fc;
+	background-color: #f7f9ff;
+	background-color: #fff;
+}
+
+div#attColumn  h1 {
+	color: #009;
+}
+
+div#attColumn  h3 {
+	color: #006;
+}
+
+div#sidebar
+{
+	margin: 0px 3px;
+	width: 18%;
+}
+
+div#content,div#footer
+{
+	margin-left: 18.6%;
+}
+
+ul#menu a {
+	display:block;
+	padding: 6px;
+	margin: 4px 0px;
+}
+ul#menu img {
+	border: 0;
+}
+ul#menu  li  {
+	/* fixes ie problem */
+	background-color: #d5deed;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+ul#menu li:hover {
+	background-color: #eef1f8;
+	background-color: #f4f6fc;
+}
+
+ul#menuGrayed a {
+	display:block;
+	padding: 6px;
+	margin: 4px 0px;
+	background-color: #ddd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+ul#menuGrayed img {
+	border: 0;
+}
+ul#menuGrayed  li  {
+	background-color: #aaa;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+sup {
+	margin-left: 10px;
+	font-size: 1em;
+}
+
+table.dataDisplay {
+	background-color: #f4f6fc;
+}
+
+table.dataDisplay  th {
+	text-align: center;
+	width: 20%;
+}
+
+table.dataDisplay  td {
+	text-align: center;
+	border: 1px solid #c4cddc;
+}
+
+/* allows some cells to be left-aligned */
+table.dataDisplay  td.data {
+	text-align: left;
+}
+
+table.dataDisplay  td.editForm {
+	text-align: left;
+	vertical-align: top;
+	padding: 1em 1em 1em 2em;
+}
+
+table.dataDisplay  td.editForm ul.defined {
+	margin-bottom: 2em;
+}
+
+
+input.deleteControl  {
+	border: 1px solid #c00;
+	margin-left: 20px;
+}
+
+table.dataDisplay  td.editForm .deleteControl input:hover {
+	color: white;
+	background-color: red;
+}
+
+table.dataDisplay  td.editForm label{
+	display: block;
+	color: #666;
+}
+
+table.dataDisplay  th {
+	color: #333;
+	background-color: #d5deed;
+	border: 1px solid #c4cddc;
+}
+
+table.dataDisplay  th div.current{
+	margin-top: 1em;
+	color: #999;
+	max-width: 300px;
+}
+
+div.uploader {
+	color: #333;
+	background-color: #d5deed;
+	border: 1px solid #c4cddc;
+	padding: 10px;
+	width: 80%;
+}
+span.current {
+	font-weight: normal;
+	color: #99a;
+	width: 90%;
+}
+p.relationDesc {
+	margin: 0;
+	margin-left: 1.6em;
+	font-weight: normal;
+	color: #99a;
+}
+
+form#editAttribute textarea {
+	width: 100%;
+	height: 6em;
+	margin-top: 5px;
+}
+
+table.dataDisplay  th.rows {
+	text-align: right;
+}
+
+#defined_values_form textarea {
+	min-height: 6em;
+	margin-bottom: 1em;
+	width: 95%;
+}
+
+#definedVals {
+	margin-top: 20px;
+	background-color: #d5deed;
+	padding: 10px;
+}
+
+#itemTypes {
+	margin-top: 20px;
+	background-color:#eef1f8;
+	padding: 10px;
+}
+
+#itemTypes li {
+	list-style: inside;
+}
+
+div#browseColumns #itemTypes a {
+	display: inline;
+}
+
+#atts {
+	margin-top: 20px;
+	background-color: #d5deed;
+	padding: 10px;
+}
+
+#related {
+	margin-top: 10px;
+	background-color: #e5eefd;
+	padding: 10px;
+}
+
+#recent li {
+	width: 60%;
+    padding: .5em;
+    margin: 1em 1em 1em 0;
+    list-style-type: none;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background-color: #ddd;
+}
+
+label {
+	display: block;
+	color: #666;
+	font-weight: bold;
+}
+
+.checkmark {
+	color: blue;
+	font-weight: bold;
+}
+
+form a.checked {
+	color: #900;
+}
+
+
+div#browseColumns a#toggleAttributeEditForm {
+	font-size: .9em;
+	font-weight: normal;
+	color: blue;
+}
+
+p.getForm {
+	margin-top: 5px;
+	margin-bottom: 0;
+}
+
+div#type_atts_list {
+	line-height: 1.8em;
+	list-style: disc;
+	margin-top: 10px;
+}
+div#type_atts_list ul li{
+	list-style: inside;
+}
+div#type_atts_list a {
+	display: inline;
+}
+
+div#type_rels_list {
+	line-height: 1.8em;
+	list-style: disc;
+	margin-top: 10px;
+}
+div#type_rels_list ul li{
+	list-style: inside;
+}
+div#type_rels_list a {
+	display: inline;
+}

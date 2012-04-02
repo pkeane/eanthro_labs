@@ -1,0 +1,229 @@
+body {
+	color:#333;
+	background-color:white;
+	margin:20px 60px;
+	padding:0px;
+	font:13px verdana, arial, helvetica, sans-serif;
+	}
+
+h1 {
+	margin:0px 0px 15px 0px;
+	padding:0px;
+	font-size:28px;
+	font-weight:900;
+	color:#aaa;
+	}
+h2 {
+	font:bold 12px/14px verdana, arial, helvetica, sans-serif;
+	margin:0px 0px 5px 0px;
+	padding:0px;
+	}
+p {
+	font:11px/20px verdana, arial, helvetica, sans-serif;
+	margin:0px 0px 16px 0px;
+	padding:0px;
+	}
+
+a {
+	color:#09c;
+	font-size:13px;
+	font-family:verdana, arial, helvetica, sans-serif;
+	font-weight:600;
+	text-decoration:none;
+	}
+a:link {color:#07a;}
+a:visited {color:#07a;}
+a:hover {text-decoration:underline;}
+  
+#navOne a:link {
+display:block;
+}
+#navOne a:visited {
+display:block;
+}
+#navOne a:hover {
+display:block;
+} 
+
+#navTwo a:link {
+display:block;
+}
+#navTwo a:visited {
+display:block;
+}
+#navTwo a:hover {
+display:block;
+} 
+
+/* All the content boxes belong to the content class. */
+.content {
+	position:relative; /* Position is declared "relative" to gain control of stacking order (z-index). */
+	width:auto;
+	min-width:120px;
+	margin:0px 210px 20px 170px;
+	border:1px solid black;
+	background-color:white;
+	padding:20px;
+	z-index:3; /* This allows the content to overlap the right menu in narrow windows in good browsers. */
+	}
+
+#navOne {
+	position:absolute;
+	width:128px;
+	top:20px;
+	left:20px;
+padding:10px;
+	border:1px dotted #999;
+	background-color:#eee;
+	z-index:2;
+}	
+#navTwo {
+	position:absolute;
+	width:167px;
+	top:20px;
+	right:20px;
+	border:1px dotted #999;
+	background-color:#eee;
+	padding:10px;
+	z-index:1;
+}
+
+
+/**** everything above is from bluerobot.com!!!!!!!!! ************/
+
+th 
+{ 
+  background-color: #eee;
+  padding:2px;
+  text-align:right;  
+  vertical-align:top;
+  width:100px;
+  }
+td 
+{ 
+  background-color:white;
+  padding:2px;
+  text-align:left;  
+  vertical-align:top;
+  }
+
+a.delete 
+{ 
+  font-size:.9em;
+  color:red;
+  }
+
+a.info 
+{ 
+  font-size:.8em;
+  color:#ccc;
+  }
+
+.closed {
+display: none;
+}
+
+form.empty {
+margin: 0px;
+}
+
+.right {
+float: right;
+}
+
+.msg {
+color: red;
+	   font-weight: bold;
+	   font-size: 1.2em;
+margin: 10px;
+}
+img {
+margin: 10px 0 0px 0;
+}
+
+.highlight {
+border: 7px  solid #ccc;
+margin:3px;
+}
+
+.inline {
+margin: 0px;
+}
+
+table {
+width: 95%;
+}
+
+td {
+width:47%;
+}
+
+.cover {
+    float: left;
+}
+
+.cover a {
+    font-weight: normal;
+}
+
+div.spacer {
+    clear: both;
+}
+
+ul {
+    list-style: none;
+	margin: 0;
+	padding: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+	list-style: none;
+	margin: 6px 0;
+	padding: 0;
+}
+
+a.play {
+    font-size: 12px;
+    font-weight: normal;
+    color: #666;
+    margin-left: 5px;
+}
+
+/*
+*************************************************
+FROM::
+http://clc.makeshiftdesign.com/kit-of-parts.html
+Author:		Joshua Hynes, JoshuaHynes.com
+Updated:	April 5, 2010
+changes by peter keane
+*************************************************
+*/
+
+div.interface { background-color: #DDD; height: 26px; padding: 14px 18px; width: 380px; }
+div.interface p, ul#times li { color: #3D3115; font-size: 11px; line-height: 11px; margin: 0 0 3px; padding: 0; }
+ul.controls { float: left; list-style-type: none; margin: 0 10px 0 0; padding: 0; }
+ul.controls li { cursor: pointer; height: 26px; margin: 0; text-indent: -9999px; width: 26px; }
+ul.controls li#play_button { background: url(../images/play.png) 0 0 no-repeat; }
+ul.controls li#pause_button { background: url(../images/pause.png) 0 0 no-repeat; }
+
+div#load_bar { background-color: #bbb; float: left; height: 14px; }
+div.progress, div.progress { background-color: #ccc; float: left; height: 14px; }
+div.progress { width: 290px; }
+div.progress div#load_bar div#play_bar { background-color: #999; height: 14px; }
+
+div#volume { float: right; width: 40px; }
+div#volume_bar { background-color: #bbb; float: left; height: 5px; width: 40px; }
+div#volume_bar_value { background-color: #586e9d; height: 5px; padding: 0; }
+	
+ul#times { float: left; list-style-type: none; margin: 0; padding: 0; width: 290px; }
+ul#times li { float: left; margin: 3px 0 0; position: relative; }
+ul#times li#play_time { width: 100px; }
+ul#times li#total_time { float: right; }
+
+div#title { background-color: #ccc; font-weight: bold; padding: 2px 18px; width: 380px; margin-bottom: 20px;}
+
+#logoff-link {
+	float: right;
+	}

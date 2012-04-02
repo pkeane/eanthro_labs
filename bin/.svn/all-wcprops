@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/1735/trunk/bin
+END
+fix_utf8_non_valid_xml_in_sets.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1735/trunk/bin/fix_utf8_non_valid_xml_in_sets.php
+END
+eid_lookup.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1735/trunk/bin/eid_lookup.php
+END
+class_gen.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1727/trunk/bin/class_gen.php
+END
+process_atom.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1119/trunk/bin/process_atom.php
+END
+migrate_collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1673/trunk/bin/migrate_collection.php
+END
+fix_copyright_symbol.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1718/trunk/bin/fix_copyright_symbol.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1280/trunk/bin/config.php
+END
+fix_utf8_non_valid_xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1714/trunk/bin/fix_utf8_non_valid_xml.php
+END
+test_fix_speed.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1735/trunk/bin/test_fix_speed.php
+END
+empty_dase_collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1726/trunk/bin/empty_dase_collection.php
+END
+find_xml_bad_metadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1700/trunk/bin/find_xml_bad_metadata.php
+END
+solr_index.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1624/trunk/bin/solr_index.php
+END
+create_user_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1646/trunk/bin/create_user_table.php
+END
+delete_dase_collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1707/trunk/bin/delete_dase_collection.php
+END
+fix_tag_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1119/trunk/bin/fix_tag_data.php
+END
+denormalize_items.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1316/trunk/bin/denormalize_items.php
+END
+get_user_sets.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1468/trunk/bin/get_user_sets.php
+END
+persist_item_collection_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1602/trunk/bin/persist_item_collection_data.php
+END
+uploader.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1119/trunk/bin/uploader.py
+END
+fix_user_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1119/trunk/bin/fix_user_data.php
+END
+scrub_solr.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1707/trunk/bin/scrub_solr.php
+END
+build_indexes.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1714/trunk/bin/build_indexes.php
+END
+check_ascii_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1735/trunk/bin/check_ascii_case.php
+END
+get_mysql_schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1222/trunk/bin/get_mysql_schema.php
+END
+fix_tag_ascii_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1735/trunk/bin/fix_tag_ascii_case.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1119/trunk/bin/.htaccess
+END
+build_json.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1677/trunk/bin/build_json.php
+END

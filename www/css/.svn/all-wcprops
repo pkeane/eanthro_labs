@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1724/trunk/www/css
+END
+manage.css
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1556/trunk/www/css/manage.css
+END
+admin.css
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1209/trunk/www/css/admin.css
+END
+genMenuCss.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/321/trunk/www/css/genMenuCss.sh
+END
+genPalette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/321/trunk/www/css/genPalette.sh
+END
+sample.local.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1280/trunk/www/css/sample.local.css
+END
+menu_css.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/975/trunk/www/css/menu_css.xsl
+END
+palette.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/321/trunk/www/css/palette.xsl
+END
+ie.css
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/321/trunk/www/css/ie.css
+END
+test.css
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1189/trunk/www/css/test.css
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1724/trunk/www/css/style.css
+END
+menu.css
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1278/trunk/www/css/menu.css
+END
+yui.css
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/846/trunk/www/css/yui.css
+END
+palette.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1278/trunk/www/css/palette.xml
+END
